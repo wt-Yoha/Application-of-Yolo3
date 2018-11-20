@@ -3,6 +3,7 @@
 
 
 对原项目训练方法进行了补充：
+
 1 编辑classes.txt文件 加入自己需要分类的目标
 
 2 生成annotation.txt文件 格式为 path\\image.jpg xmin,ymin,xmax,ymax,id (next box)
